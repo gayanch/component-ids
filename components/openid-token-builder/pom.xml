@@ -89,6 +89,12 @@
 			<artifactId>pcr-service</artifactId>
 			<version>2.0.21</version>
 		</dependency>
+        <dependency>
+            <groupId>org.wso2.carbon.apimgt</groupId>
+            <artifactId>org.wso2.carbon.apimgt.keymgt</artifactId>
+            <version>6.0.4</version>
+            <scope>compile</scope>
+        </dependency>
     </dependencies>
 
 
